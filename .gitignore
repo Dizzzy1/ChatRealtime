@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.vsidx
+
+# .NET
+bin/
+obj/
+
+# Temporales
+[Tt]emp/
+*.slnLaunch.user
