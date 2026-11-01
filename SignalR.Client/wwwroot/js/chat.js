@@ -1,7 +1,7 @@
 "use strict";
     const connection =
     new signalR.HubConnectionBuilder()
-        .withUrl("https://localhost:7291/chatHub")
+        .withUrl("https://signalrhub20261031193909-fve5f3bghjduhwat.canadacentral-01.azurewebsites.net/chatHub")
         .withAutomaticReconnect()
         .build();
 
